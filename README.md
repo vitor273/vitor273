@@ -1,9 +1,9 @@
-<h1>Pão com Ovo!! Vitor👍<h1>
+<h1> Vitor👍<h1>
 <p align="right">
 <table width="100%">
 <tr><td valign="top" width="50%">
 <p>
-Estou aprendendo programação. Atualmente estou fazendo curso no SENAI (Desenvolvimento de Sistemas).
+Estou aprendendo programação. Atualmente estou fazendo curso no SENAI (Técnico em Desenvolvimento de Sistemas).
 </p>
   <div align="center">
     <img width="80%" loading="lazy" src="https://github.com/vitor273/vitor273/blob/main/watermarked-68839a9e-f3e8-4694-af93-9572d3b6ebc1.gif?raw=true">
@@ -23,8 +23,7 @@ Estou aprendendo programação. Atualmente estou fazendo curso no SENAI (Desenvo
 <div>
   <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitor273&show_icons=true&theme=transparent" >
-  </div>
-</div>
+
 <h2>Contatos:</h2>
 <div align="center"> 
 </div>
