@@ -10,7 +10,6 @@ Estou aprendendo programação. Atualmente estou fazendo curso no SENAI (Técnic
     <p>
     <h2>📌Projetos</h2>
     </p>
-       <div align="center">
          <section>
             <div class="card">
             <h3>Projeto 1</h3>
