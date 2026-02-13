@@ -41,4 +41,5 @@ Estou aprendendo programação. Atualmente estou fazendo curso no SENAI (Técnic
 </section>
 <footer>
     © 2026 - Vitor Silvio
+    <div align="center">
 </footer>
