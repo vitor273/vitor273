@@ -29,14 +29,14 @@ Estou aprendendo programação. Atualmente estou fazendo curso no SENAI (Técnic
     <div class="social">
         <a href="https://github.com/seuusuario" target="_blank">GitHub</a>
       <div>
+        <br>
         <a href="https://linkedin.com/in/seuusuario" target="_blank">LinkedIn</a>
       </div>
+      <br>
         <a href="mailto:seuemail@email.com">Email</a>
       <hr>
     </div>
 </section>
 <footer>
-  <p style="text-align: center;">
     © 2026 - Vitor Silvio
-    </p>
 </footer>
