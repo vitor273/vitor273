@@ -25,6 +25,7 @@ Estou aprendendo programação. Atualmente estou fazendo curso no SENAI (Técnic
 </p>
 <div>
   <section>
+    <div>
     <h2>📬 Contato</h2>
     <div class="social">
         <a href="https://github.com/seuusuario" target="_blank">GitHub</a>
