@@ -31,6 +31,7 @@ Estou aprendendo programação. Atualmente estou fazendo curso no SENAI (Técnic
         <a href="https://github.com/seuusuario" target="_blank">GitHub</a>
         <a href="https://linkedin.com/in/seuusuario" target="_blank">LinkedIn</a>
         <a href="mailto:seuemail@email.com">Email</a>
+      <hr>
     </div>
 </section>
 <footer>
