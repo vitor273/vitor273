@@ -6,6 +6,26 @@
 <p>
 Estou aprendendo programação. Atualmente estou fazendo curso no SENAI (Técnico em Desenvolvimento de Sistemas).
 </p>
+  <section>
+    <h2>📌 Projetos</h2>
+    <div class="projects">
+        <div class="card">
+            <h3>Projeto 1</h3>
+            <p>Descrição breve do projeto e tecnologias utilizadas.</p>
+            <a href="#" class="btn">Ver Projeto</a>
+        </div>
+        <div class="card">
+            <h3>Projeto 2</h3>
+            <p>Descrição breve do projeto e tecnologias utilizadas.</p>
+            <a href="#" class="btn">Ver Projeto</a>
+        </div>
+        <div class="card">
+            <h3>Projeto 3</h3>
+            <p>Descrição breve do projeto e tecnologias utilizadas.</p>
+            <a href="#" class="btn">Ver Projeto</a>
+        </div>
+    </div>
+</section>
   <div align="center">
     <img width="80%" loading="lazy" src="https://github.com/vitor273/vitor273/blob/main/watermarked-68839a9e-f3e8-4694-af93-9572d3b6ebc1.gif?raw=true">
   </div>
