@@ -24,6 +24,14 @@ Estou aprendendo programação. Atualmente estou fazendo curso no SENAI (Técnic
 <img src="https://views.whatilearened.today/views/github/vitor273/views.svg"> <a href="https://github.com/vitor273/"><img src="https://img.shields.io/github/followers/vitor273?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
 </p>
 <div>
+  <section>
+    <h2>📬 Contato</h2>
+    <div class="social">
+        <a href="https://github.com/seuusuario" target="_blank">GitHub</a>
+        <a href="https://linkedin.com/in/seuusuario" target="_blank">LinkedIn</a>
+        <a href="mailto:seuemail@email.com">Email</a>
+    </div>
+</section>
 <footer>
-    © 2026 - Seu Nome | Desenvolvido com 💙
+    © 2026 - Vitor Silvio |
 </footer>
