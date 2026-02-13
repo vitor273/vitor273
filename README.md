@@ -8,7 +8,7 @@ Estou aprendendo programação. Atualmente estou fazendo curso no SENAI (Técnic
 </p>   
   <div align="center">
     <p>
-    <h2>📌 Projetos</h2>
+    <h2>📌Projetos</h2>
     </p>
        <div align="center">
          <section>
