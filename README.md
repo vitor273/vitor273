@@ -30,6 +30,7 @@ Estou aprendendo programação. Atualmente estou fazendo curso no SENAI (Técnic
     <h2>📬 Contato</h2>
     <ul>
         <li style="display: inline;">Palavra 1</li>
+      <br>
         <li style="display: inline;">Palavra 2</li>
         <li style="display: inline;">Palavra 3</li>
     </ul>
