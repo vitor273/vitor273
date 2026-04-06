@@ -1,4 +1,4 @@
-<h1> 🚀 Bem-vindo ao meu GitHub!<h1>
+<center><h1> 🚀 Bem-vindo ao meu GitHub!<h1></h1>center>
 <h3>👋 Olá! Sou Vitor um desenvolvedor iniciante aprendendo.</h3>
 <ul>
 <li>🌱 Atualmente estop aprendendo:</li>
@@ -32,9 +32,9 @@
   <section>
     <div>
     <h2>📬 Contato</h2>
-        <div style="display: inline;" width="40" height="40">Palavra 2/>
-        <div style="display: inline;" width="40" height="40">Palavra 2/>
-       <div style="display: inline;" width="40" height="40">Palavra 2/>
+        <div style="display: inline;" width="40" height="40" display:flex>Palavra 2
+        <div style="display: inline;" width="40" height="40">Palavra 2
+       <div style="display: inline;" width="40" height="40">Palavra 2
     </ul>
 </section>
 <footer>
