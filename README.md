@@ -25,9 +25,6 @@
 </td></tr>
 </table>
 </p>
-<p align="right">
-<img src="https://views.whatilearened.today/views/github/vitor273/views.svg"> <a href="https://github.com/vitor273/"><img src="https://img.shields.io/github/followers/vitor273?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
-</p>
 <div>
   <section>
     <div>
