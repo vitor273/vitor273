@@ -1,7 +1,7 @@
 <h1> 🚀 Bem-vindo ao meu GitHub!<h1>
 <p align="right">
-<table width="50%">
-<tr><td valign="top" width="50%">
+<table width="100%">
+<tr>
 <h3>👋 Olá! Sou Vitor um desenvolvedor iniciante aprendendo.</h3>
 <ul>
 <li>🌱 Atualmente estop aprendendo:</li>
