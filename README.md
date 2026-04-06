@@ -13,7 +13,6 @@
   <div align="center">
     </div>
     <div align="center">
-      <table width="100%">
     <img width="80%" loading="lazy" src="https://github.com/vitor273/vitor273/blob/main/watermarked-68839a9e-f3e8-4694-af93-9572d3b6ebc1.gif?raw=true">
   </div>
     <h2>Oque eu uso!</h2>
