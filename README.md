@@ -8,7 +8,7 @@
 </ul>
 <p align="center">
 <table width="50%">
-<tr><td valign="top" width="50%">
+<tr><td valign="top" width="10%">
 <p>
   <div align="right">
     </div>
