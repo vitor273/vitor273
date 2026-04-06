@@ -10,7 +10,7 @@
 <table width="100%">
 <tr><td valign="top" width="50%">
 <p>
-  <div align="center">
+  <div align="right">
     </div>
     <div align="center">
     <img width="80%" loading="lazy" src="https://github.com/vitor273/vitor273/blob/main/watermarked-68839a9e-f3e8-4694-af93-9572d3b6ebc1.gif?raw=true">
