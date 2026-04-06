@@ -33,9 +33,9 @@
     <div>
     <h2>📬 Contato</h2>
         <div align="center"> 
-        <a href="" target="_blank">gmail</a>&nbsp;&nbsp;
-        <a href="" target="_blank">gmail</a>&nbsp;&nbsp;
-        <a href="" target="_blank">gmail</a>&nbsp;&nbsp;
+        <a href="" target="_blank">G-MAIL</a>&nbsp;&nbsp;
+        <a href="" target="_blank">LINKEDIN</a>&nbsp;&nbsp;
+        <a href="" target="_blank">FACEBOOK</a>&nbsp;&nbsp;
       </div>
 </section>
 <footer>
