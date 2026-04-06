@@ -1,4 +1,5 @@
 <h1> 🚀 Bem-vindo ao meu GitHub!<h1>
+  <div>
 <h3>👋 Olá! Sou Vitor um desenvolvedor iniciante aprendendo.</h3>
 <ul>
 <li>🌱 Atualmente estop aprendendo:</li>
