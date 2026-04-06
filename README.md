@@ -4,8 +4,8 @@
 <tr><td valign="top" width="50%">
 
 <h4>👋 Olá! Sou Vitor um desenvolvedor iniciante aprendendo.</h4>
-  
-<ul>🌱 Atualmente estop aprendendo:
+<ul>
+<li>🌱 Atualmente estop aprendendo:</li>
 <li>- HTML, CSS e JavaScript</li>
 <li>- Desenvolvimento Web</li>
 <li>- e eu estou estudando sql e php</li>
