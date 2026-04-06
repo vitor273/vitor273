@@ -4,7 +4,14 @@
 <table width="100%">
 <tr><td valign="top" width="50%">
 <p>
-Estou aprendendo programação. Atualmente estou fazendo curso no SENAI (Técnico em Desenvolvimento de Sistemas).
+* 🚀 Bem-vindo ao meu GitHub!
+* Sobre mim
+👋 Olá! Sou um desenvolvedor iniciante apaixonado por tecnologia.
+
+🌱 Atualmente estop aprendendo:
+- HTML, CSS e JavaScript
+- Desenvolvimento Web
+- e eusto estudando sql e php
 </p>   
   <div align="center">
     </div>
