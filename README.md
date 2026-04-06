@@ -37,6 +37,9 @@
       </div>
 </section>
 <footer>
-    © 2026 - Vitor Silvio
+   <div align="center">
+    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitor273&show_icons=true&theme=radical&hide_title=true)
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitor273&layout=compact&theme=radical)
+    </div>
     <div align="center">
 </footer>
