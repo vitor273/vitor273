@@ -32,10 +32,11 @@
   <section>
     <div>
     <h2>📬 Contato</h2>
-        <div style="display: inline;" width="40" height="40" display:flex>Palavra 2
-        <div style="display: inline;" width="40" height="40">Palavra 2
-       <div style="display: inline;" width="40" height="40">Palavra 2
-    </ul>
+        <div align="center"> 
+        <a href="" target="_blank">gmail</a> 
+        <a href="" target="_blank">gmail</a> 
+        <a href="" target="_blank">gmail</a>  
+      </div>
 </section>
 <footer>
     © 2026 - Vitor Silvio
