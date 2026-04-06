@@ -1,10 +1,8 @@
-<h1> Vitor
+<h1> 🚀 Bem-vindo ao meu GitHub!</h3>
   <h1>
 <p align="right">
 <table width="100%">
 <tr><td valign="top" width="50%">
-
-<h3>* 🚀 Bem-vindo ao meu GitHub!</h3>
 <ul>
 <li>👋 Olá! Sou Vitor um desenvolvedor iniciante aprendendo.</li>
   
