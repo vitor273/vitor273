@@ -3,17 +3,18 @@
 <p align="right">
 <table width="100%">
 <tr><td valign="top" width="50%">
-<p><h3>
-* 🚀 Bem-vindo ao meu GitHub!
-* Sobre mim
-👋 Olá! Sou um desenvolvedor iniciante apaixonado por tecnologia.
 
-🌱 Atualmente estop aprendendo:
-- HTML, CSS e JavaScript
-- Desenvolvimento Web
-- e eu estou estudando sql e php
-</h3>
-</p>   
+<h3>* 🚀 Bem-vindo ao meu GitHub!</h3>
+<ul>
+<li>👋 Olá! Sou Vitor um desenvolvedor iniciante aprendendo.</li>
+  
+<li>🌱 Atualmente estop aprendendo:</li>
+<li>- HTML, CSS e JavaScript</li>
+<li>- Desenvolvimento Web</li>
+<li>- e eu estou estudando sql e php</li>
+<p align="right">
+<table width="100%">
+<tr><td valign="top" width="50%"> 
   <div align="center">
     </div>
   <div align="center">
