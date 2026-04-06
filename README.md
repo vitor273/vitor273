@@ -1,15 +1,15 @@
-<h1> 🚀 Bem-vindo ao meu GitHub!</h3>
-  <h1>
+<h1> 🚀 Bem-vindo ao meu GitHub!<h1>
 <p align="right">
 <table width="100%">
 <tr><td valign="top" width="50%">
-<ul>
-<li>👋 Olá! Sou Vitor um desenvolvedor iniciante aprendendo.</li>
+
+<h4>👋 Olá! Sou Vitor um desenvolvedor iniciante aprendendo.</h4>
   
-<li>🌱 Atualmente estop aprendendo:</li>
+<ul>🌱 Atualmente estop aprendendo:
 <li>- HTML, CSS e JavaScript</li>
 <li>- Desenvolvimento Web</li>
 <li>- e eu estou estudando sql e php</li>
+</ul>
 <p align="right">
 <table width="100%">
 <tr><td valign="top" width="50%"> 
