@@ -1,9 +1,8 @@
 <h1> 🚀 Bem-vindo ao meu GitHub!<h1>
 <p align="right">
-<table width="100%">
+<table width="50%">
 <tr><td valign="top" width="50%">
-
-<h4>👋 Olá! Sou Vitor um desenvolvedor iniciante aprendendo.</h4>
+<h3>👋 Olá! Sou Vitor um desenvolvedor iniciante aprendendo.</h3>
 <ul>
 <li>🌱 Atualmente estop aprendendo:</li>
 <li>- HTML, CSS e JavaScript</li>
