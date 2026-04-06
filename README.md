@@ -6,7 +6,7 @@
 <li>- Desenvolvimento Web</li>
 <li>- e eu estou estudando sql e php</li>
 </ul>
-<p align="right">
+<p align="center">
 <table width="100%">
 <tr><td valign="top" width="50%">
 <p>
