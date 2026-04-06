@@ -31,7 +31,7 @@
     <div>
     <h1>📬 Contato</h1>
         <div align="center"> 
-        <a href="https://mail.google.com/mail/u/0/?pli=1#search/vitorsilvio2008%40gmail.com?compose=new" target="_blank">G-MAIL</a>&nbsp;&nbsp;
+        <a href="" target="_blank">G-MAIL</a>&nbsp;&nbsp;
         <a href="" target="_blank">LINKEDIN</a>&nbsp;&nbsp;
         <a href="" target="_blank">FACEBOOK</a>&nbsp;&nbsp;
       </div>
