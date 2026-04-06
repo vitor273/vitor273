@@ -8,7 +8,7 @@
 <li>- e eu estou estudando sql e php</li>
 </ul>
 <p align="right">
-<table width="50%">
+<table width="100%">
 <tr><td valign="top" width="50%">
 <p>
   <div align="center">
