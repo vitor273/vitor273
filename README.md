@@ -1,7 +1,7 @@
 <center><h1>🚀 Bem-vindo ao meu GitHub!</h1></center>
 <h3>👋 Olá! Sou Vitor um desenvolvedor iniciante aprendendo.</h3>
 <ul>
-<li>🌱 Atualmente estop aprendendo:</li>
+<li>🌱 Atualmente estou aprendendo:</li>
 <li>- HTML, CSS e JavaScript</li>
 <li>- Desenvolvimento Web</li>
 <li>- e eu estou estudando sql e php</li>
